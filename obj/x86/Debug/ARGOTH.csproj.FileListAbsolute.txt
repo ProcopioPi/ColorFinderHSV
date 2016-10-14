@@ -1,0 +1,33 @@
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.exe
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.pdb
+E:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.exe
+E:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.pdb
+E:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.dll
+E:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.pdb
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.Properties.Resources.resources
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\motion.CaptureDeviceForm.resources
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.MainFRM.resources
+E:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.csproj.GenerateResource.Cache
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.exe
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.pdb
+F:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.exe
+F:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.pdb
+F:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.dll
+F:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.pdb
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.csprojResolveAssemblyReference.cache
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.Properties.Resources.resources
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\motion.CaptureDeviceForm.resources
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.MainFRM.resources
+F:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.csproj.GenerateResource.Cache
+N:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.exe
+N:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\ARGOTH.pdb
+N:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.dll
+N:\Semestre 03\AR\ARScratch\ARGOTH\bin\Debug\dshow.pdb
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.Properties.Resources.resources
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\motion.CaptureDeviceForm.resources
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.MainFRM.resources
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.csproj.GenerateResource.Cache
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.exe
+N:\Semestre 03\AR\ARScratch\ARGOTH\obj\x86\Debug\ARGOTH.pdb
+C:\Users\Omar\Documents\GitHub\ColorFinderHSV\obj\x86\Debug\ARGOTH.exe
+C:\Users\Omar\Documents\GitHub\ColorFinderHSV\obj\x86\Debug\ARGOTH.pdb
